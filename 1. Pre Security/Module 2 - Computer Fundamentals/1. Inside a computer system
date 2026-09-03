@@ -1,0 +1,28 @@
+1. Central Processing Unit (CPU) - category is processor , brain of the computer and processes every program , click and instructions, its position is on the CPU
+socket of motherboard (its a small chip)
+
+2. Hard Disk Drive (HDD) - category is Storage, stores files permanently keeps everything stored even there is no power provided and it uses magnetic disks with 
+other moving parts , placed inside drive bay (A dedicated physical slot or compartment designed to securely mount and hold internal storage devices)
+
+3. Solid State Drive (SDD) - category is Storage, stores files , apps and operting system , works same as HDD only difference is its a bit faster than HDD and its
+silent and has no moving parts , placed in M.2 slot on motherboard
+
+4. Laptop power charger - category is power supply, it basically converts AC power from the wall into DC as required by the computer
+
+5. Input/Output Panel (I/O) - category is input output, contains all the ports from outside the machine , everything we plug into machine goes through this 
+position is at the rear of I/O slot at the edge of chassis (outer frame of cpu the metal box) 
+
+6. Desktop graphics processing unit (GPU) - category visual input, creates everything we see on screen handles images videos and all the stuff basically
+position is at the PCle x16 slot on the motherboard
+
+7. Network adapter - catergory is connectivity , it gives the ability of connecting the computer to internet without it the machine cannot go online
+position is at PCle x1 slot on the motherboard
+
+8. USB Wifi dongle - category is connectivity, gives wireless access to computers and connects the machine to internet 
+
+9. Power supply unit (PSU) - category is power, takes electricity from power socket and converts it into right voltage for each component position is at the edge of 
+chasis 
+
+10. Random Access Memory (RAM) - category is memory , it temporary stores on what the computer is working on , makes data fast to access , everything is lost when
+power is not provided, position is on DIMM slots on motherboard  
+
