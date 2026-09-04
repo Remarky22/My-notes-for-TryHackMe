@@ -1,0 +1,6 @@
+Virtualization is a concept which introduced the process of running multiple programs on a single physical server
+a layer called hypervisor was introduced to act as a Software that creates and manages VMs and allocates physical resources to them
+hypervisor are implemented by 2 types
+1. hypervisor run directly on physical hardware 
+2. hypervisor run within an existing operating system
+Container: isolates an application and its dependencies while sharing the host OS kernel.
