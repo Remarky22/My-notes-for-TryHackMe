@@ -1,0 +1,11 @@
+Client server model :- 
+client server model is a model between your personal computer which acts as a client and a server which is responsible for providing data to a client
+think of it as an example you want to watch youtube , you enter youtube.com on your browswer now here your browser is a client which is requesting to access
+youtube webpage now this request will be carried to the youtube's server which will grant you the access to the webpage.
+
+Protocol - a protocol defines how a client can communicate to a server , it is a set of rules which need to be followed during networking because protocol is what
+ensures the data is being served completely and securly 
+
+Port - A port is used to identify a specific service running on the system , when a client has to access a server it must be connceted to a right port
+
+Domain name service (DNS) - It is a system that translates website names (domain names) into IP addresses that computers use to communicate.
