@@ -9,3 +9,8 @@ ensures the data is being served completely and securly
 Port - A port is used to identify a specific service running on the system , when a client has to access a server it must be connceted to a right port
 
 Domain name service (DNS) - It is a system that translates website names (domain names) into IP addresses that computers use to communicate.
+
+HTTP/HTTPS is stateless → each request is independent; the server doesn't inherently remember previous requests.
+Sessions add state → websites use mechanisms like session IDs to remember that you're logged in.
+The session ID is commonly stored in a cookie or token and sent with subsequent requests.
+Without sessions, you'd have to authenticate on every request.
