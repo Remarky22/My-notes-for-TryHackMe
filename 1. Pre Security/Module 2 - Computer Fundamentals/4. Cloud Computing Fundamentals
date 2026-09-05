@@ -1,0 +1,25 @@
+Cloud Computing allows businesses to consume computing resources (servers, storage, networks) over the internet on demand instead 
+of running applications on a single local computer or physical server in a single country. This makes applications highly 
+accessible, reliable, cost-effective, and ready to grow without requiring expensive up-front hardware investments.
+
+Evolution of cloud computing :- 
+1960s: Physical Servers---> 1999: Virtualization (alerady noted in previous topics) --> 2006: Automation & Mgmt --> 2012+ - Present: Modern Cloud
+
+types of cloud computing :- 
+  1. Public Cloud: Shared infrastructure owned and managed by third-party vendors (AWS, Azure, Google Cloud, Alibaba, Oracle) accessed over the
+  public internet. Cost-effective and highly scalable.
+  2. Private Cloud: Dedicated cloud infrastructure built exclusively for a single organization (e.g., banks, healthcare, government). Offers supreme control,
+  security, and compliance.
+  3. Hybrid Cloud: A combined environment of both public and private clouds that can work together, sharing data and applications as needed.
+
+types of Cloud Service Models :-
+    1. IaaS (Infrastructure as a Service) - Rent basic computing building blocks like servers, storage, and networking. You have full control over
+       the Operating System (OS) and applications.
+    2. PaaS (Platform as a Service) - Rents a pre-configured environment to build, test, and deploy applications. The vendor manages the
+       underlying OS, networking, and servers so you can focus entirely on coding.
+    3. SaaS (Software as a Service) - Access a complete, ready-to-use software application over the internet. No installation,
+       maintenance, or infrastructure management is required.
+
+  example of IaaS - Amazon EC2, Virtual Machines(VMs)
+  example of PaaS - Heroku, Google App Engine
+  example of SaaS - Gmail,Zoom, miocrosoft 365
